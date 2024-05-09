@@ -46,7 +46,11 @@ TouchGFX/build/STM32F429IDISCO/TouchGFX/generated/gui_generated/src/screen1_scre
  TouchGFX/gui/include/gui/screen1_screen/Screen1Presenter.hpp \
  TouchGFX/gui/include/gui/model/ModelListener.hpp \
  Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp \
- Middlewares/ST/touchgfx/framework/include/touchgfx/Color.hpp
+ Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp \
+ Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp \
+ Middlewares/ST/touchgfx/framework/include/touchgfx/Texts.hpp \
+ Middlewares/ST/touchgfx/framework/include/touchgfx/Color.hpp \
+ TouchGFX/generated/texts/include/texts/TextKeysAndLanguages.hpp
 
 TouchGFX/generated/gui_generated/include/gui_generated/screen1_screen/Screen1ViewBase.hpp:
 
@@ -140,4 +144,12 @@ TouchGFX/gui/include/gui/model/ModelListener.hpp:
 
 Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp:
 
+Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:
+
+Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:
+
+Middlewares/ST/touchgfx/framework/include/touchgfx/Texts.hpp:
+
 Middlewares/ST/touchgfx/framework/include/touchgfx/Color.hpp:
+
+TouchGFX/generated/texts/include/texts/TextKeysAndLanguages.hpp:

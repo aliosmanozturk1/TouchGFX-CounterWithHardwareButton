@@ -1,0 +1,17 @@
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:834:13:SPI5_Write	1
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:946:6:StartDefaultTask	1
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:242:6:SystemClock_Config	1
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:150:5:main	1
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:678:6:IOE_Init	1
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:687:6:IOE_ITConfig	1
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:699:6:IOE_Write	1
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:710:9:IOE_Read	1
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:723:10:IOE_ReadMultiple	1
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:732:6:IOE_Delay	1
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:860:6:LCD_IO_Init	1
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:870:6:LCD_IO_WriteData	1
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:886:6:LCD_IO_WriteReg	1
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:905:10:LCD_IO_ReadData	1
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:932:6:LCD_Delay	1
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:965:6:HAL_TIM_PeriodElapsedCallback	2
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:982:6:Error_Handler	1

@@ -57,6 +57,7 @@ TouchGFX/build/STM32F429IDISCO/TouchGFX/target/generated/TouchGFXConfiguration.o
  TouchGFX/gui/include/gui/screen1_screen/Screen1Presenter.hpp \
  TouchGFX/gui/include/gui/model/ModelListener.hpp \
  Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp \
+ Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp \
  TouchGFX/generated/images/include/BitmapDatabase.hpp \
  TouchGFX/generated/images/include/images/BitmapDatabase.hpp \
  Middlewares/ST/touchgfx/framework/include/touchgfx/VectorFontRendererImpl.hpp \
@@ -213,6 +214,8 @@ TouchGFX/gui/include/gui/screen1_screen/Screen1Presenter.hpp:
 TouchGFX/gui/include/gui/model/ModelListener.hpp:
 
 Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp:
+
+Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:
 
 TouchGFX/generated/images/include/BitmapDatabase.hpp:
 

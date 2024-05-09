@@ -3,12 +3,21 @@
 /*********************************************************************************/
 #include <gui_generated/screen1_screen/Screen1ViewBase.hpp>
 #include <touchgfx/Color.hpp>
+#include <texts/TextKeysAndLanguages.hpp>
 
 Screen1ViewBase::Screen1ViewBase()
 {
     __background.setPosition(0, 0, 240, 320);
     __background.setColor(touchgfx::Color::getColorFromRGB(0, 0, 0));
     add(__background);
+
+    textArea1.setPosition(19, 138, 203, 45);
+    textArea1.setColor(touchgfx::Color::getColorFromRGB(255, 255, 255));
+    textArea1.setLinespacing(0);
+    Unicode::snprintf(textArea1Buffer, TEXTAREA1_SIZE, "%s", touchgfx::TypedText(T___SINGLEUSE_UIT7).getText());
+    textArea1.setWildcard(textArea1Buffer);
+    textArea1.setTypedText(touchgfx::TypedText(T___SINGLEUSE_BKIE));
+    add(textArea1);
 }
 
 Screen1ViewBase::~Screen1ViewBase()
@@ -19,4 +28,16 @@ Screen1ViewBase::~Screen1ViewBase()
 void Screen1ViewBase::setupScreen()
 {
 
+}
+
+void Screen1ViewBase::handleKeyEvent(uint8_t key)
+{
+    if(0 == key)
+    {
+        //up
+        //When hardware button 0 clicked call virtual function
+        //Call upperButton
+        upperButton();
+    
+    }
 }

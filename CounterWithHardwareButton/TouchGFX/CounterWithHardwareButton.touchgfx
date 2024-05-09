@@ -3,8 +3,40 @@
     "Screens": [
       {
         "Name": "Screen1",
-        "Components": [],
-        "Interactions": []
+        "Components": [
+          {
+            "Type": "TextArea",
+            "Name": "textArea1",
+            "X": 19,
+            "Y": 138,
+            "Width": 203,
+            "Height": 45,
+            "TextId": "__SingleUse_BKIE",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Wildcard1": {
+              "TextId": "__SingleUse_UIT7",
+              "UseBuffer": true,
+              "BufferSize": 5
+            }
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "up",
+            "Trigger": {
+              "Type": "TriggerPhysicalButtonClicked"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "upperButton"
+            }
+          }
+        ]
       }
     ],
     "CustomContainerDefinitions": [],
@@ -57,7 +89,7 @@
     "SubFamily": "STM32F429/439",
     "Toolchain": "STM32CubeIDE",
     "Platform": "m4",
-    "ProjectFile": "../STM32F429I_DISCO_REV_D01.ioc",
+    "ProjectFile": "../CounterWithHardwareButton.ioc",
     "OptionalComponentsRoot": "../Middlewares/ST/touchgfx_components",
     "OptionalComponents": [],
     "AdditionalFeatures": [

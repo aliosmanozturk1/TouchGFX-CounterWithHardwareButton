@@ -12,6 +12,8 @@ enum LANGUAGES
 
 enum TEXTS
 {
+    T___SINGLEUSE_UIT7,
+    T___SINGLEUSE_BKIE,
     NUMBER_OF_TEXT_KEYS
 };
 

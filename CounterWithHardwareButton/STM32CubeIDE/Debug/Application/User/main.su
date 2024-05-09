@@ -1,0 +1,17 @@
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:834:13:SPI5_Write	16	static
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:946:6:StartDefaultTask	8	static
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:242:6:SystemClock_Config	96	static
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:150:5:main	112	static
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:678:6:IOE_Init	0	static
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:687:6:IOE_ITConfig	0	static
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:699:6:IOE_Write	32	static
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:710:9:IOE_Read	32	static
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:723:10:IOE_ReadMultiple	24	static
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:732:6:IOE_Delay	0	static
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:860:6:LCD_IO_Init	8	static
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:870:6:LCD_IO_WriteData	16	static
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:886:6:LCD_IO_WriteReg	16	static
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:905:10:LCD_IO_ReadData	32	static
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:932:6:LCD_Delay	0	static
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:965:6:HAL_TIM_PeriodElapsedCallback	0	static
+C:/Users/aliosmanozturk/Documents/GitHub/TouchGFX-CounterWithHardwareButton/CounterWithHardwareButton/Core/Src/main.c:982:6:Error_Handler	0	static
